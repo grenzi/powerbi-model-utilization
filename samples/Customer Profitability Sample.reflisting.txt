@@ -1,0 +1,15 @@
+BU.BU
+Date.Month
+Executive.Name
+Fact.# of Customers
+Fact.# of Products
+Fact.GM%
+Fact.Revenue Var % to Budget
+Fact.RevenueTY
+Fact.Total Revenue
+Fact._RevenueTY Status
+Industry.Industry
+Product.Product
+State.Region
+State.State
+select
